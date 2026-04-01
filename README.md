@@ -8,4 +8,6 @@ This repository contains programs written while learning C programming.
 - Volume of cylinder
 - Converting temerpature unit
 - Ineterst calculation
+- Solving equation
+- If-Else statement
 - More programs will be added as I continue learning C.
