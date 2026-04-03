@@ -10,4 +10,5 @@ This repository contains programs written while learning C programming.
 - Ineterst calculation
 - Solving equation
 - If-Else statement
+- Marks calculation
 - More programs will be added as I continue learning C.
