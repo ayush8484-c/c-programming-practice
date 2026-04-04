@@ -11,4 +11,5 @@ This repository contains programs written while learning C programming.
 - Solving equation
 - If-Else statement
 - Marks calculation
+- Multiplication tables of n numbers
 - More programs will be added as I continue learning C.
