@@ -13,4 +13,5 @@ This repository contains programs written while learning C programming.
 - Marks calculation
 - Multiplication tables of n numbers
 - Sum using loop
+- Average of 3 numbers
 - More programs will be added as I continue learning C.
