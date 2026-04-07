@@ -14,4 +14,5 @@ This repository contains programs written while learning C programming.
 - Multiplication tables of n numbers
 - Sum using loop
 - Average of 3 numbers
+- Fibonacci series
 - More programs will be added as I continue learning C.
